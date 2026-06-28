@@ -1,0 +1,44 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Rider ignored files
+/.idea.MatchGame.iml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+
+# Build output
+/bin/
+/obj/
+
+# Visual Studio
+/.vs/
+
+# ReSharper
+/_ReSharper*/
+*.DotSettings.user
+
+# Publish output
+/publish/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+
+# Log files
+*.log
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Ignored default folder with query files
+/queries/
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# OS generated files
+.DS_Store
+Thumbs.db
